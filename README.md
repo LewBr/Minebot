@@ -1,0 +1,2 @@
+# Minebot
+A discord bot.
