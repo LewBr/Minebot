@@ -1,6 +1,6 @@
 # Minebot
 Here you can discuss and give some ideas for the bot "Minebot" for Discord, if you want to give a suggestion just create a Issue.
-Maybe at some day the bot will be open-source.
+<br>Maybe at some day the bot will be open-source.
 
 <a href="https://discord.com/api/oauth2/authorize?client_id=1008792285317701813&permissions=2184506432&scope=bot"> Click here to add the bot</a>
 
