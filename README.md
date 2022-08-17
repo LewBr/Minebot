@@ -1,6 +1,6 @@
 # Minebot
-Here you can discuss and give some ideas for the bot "Minebot" for Discord.
-Maybe at some day it will be open-source.
+Here you can discuss and give some ideas for the bot "Minebot" for Discord, if you want to give a suggestion just create a Issue.
+Maybe at some day the bot will be open-source.
 
 <a href="https://discord.com/api/oauth2/authorize?client_id=1008792285317701813&permissions=2184506432&scope=bot"> Click here to add the bot</a>
 
@@ -21,5 +21,8 @@ Commands of the bot:<br>
 <code>/beping [address] - Pings a Minecraft Bedrock Edition server and gets some info about it.</code><br>
 
 <a href="https://github.com/sponsors/LewBr"> Click here to donate</a>
+
+Features to be added:
+- Get a player stats on the Hypixel server.
 
 
