@@ -2,7 +2,10 @@
 Here you can discuss and give some ideas for the bot "Minebot" for Discord.
 Maybe at some day it will be open-source.
 
+<a href="https://discord.com/api/oauth2/authorize?client_id=1008792285317701813&permissions=2184506432&scope=bot"> Click here to add the bot</a>
+
 Invite Link: https://discord.com/api/oauth2/authorize?client_id=1008792285317701813&permissions=2184506432&scope=bot
+
 
 Commands of the bot:<br>
 <code>/mbhelp - Information's about the Bot.</code><br>
@@ -16,5 +19,7 @@ Commands of the bot:<br>
 <code>/javaping [address] - Pings a Minecraft Java Edition server and gets some info about it.</code><br>
 <code>/javamotd [address] - Gets the current MOTD of a Minecraft Java Edition server.</code><br>
 <code>/beping [address] - Pings a Minecraft Bedrock Edition server and gets some info about it.</code><br>
+
+<a href="https://github.com/sponsors/LewBr"> Click here to donate</a>
 
 
