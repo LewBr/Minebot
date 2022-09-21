@@ -7,24 +7,33 @@ If you want to give a suggestion or report a bug just create a Issue <a href="ht
 
 
 Commands of the bot:<br>
-<code>/mbhelp - Information's about the Bot.</code><br>
-<code>/mbping - Calculate ping of the bot.</code><br>
+
+SKIN:<br>
 <code>/mchead [nickname]  - Shows the head of a Minecraft skin.</code><br>
 <code>/mcface [nickname] - Shows the face of a Minecraft skin.</code><br>
+<code>/mcfacehelmet [nickname] (size) - Shows the face of a Minecraft skin with helmet.</code><br>
 <code>/mcskin [nickname] - Shows the Minecraft skin of a player.</code><br>
 <code>/mcskinsteal [nickname] - Shows a raw Minecraft skin.</code><br>
+
+PLAYER INFO:<br>
 <code>/mcuuid [nickname] - Gets the UUID associated with a Minecraft username.</code><br>
 <code>/mcofflineuuid [nickname] - Gets the UUID that a player would have on an offline-mode server.</code><br>
 <code>/hypixel [nickname] - Gets a player stats from the server Hypixel. (mc.hypixel.net)</code><br>
+
+SERVER:<br>
 <code>/javaping [address] - Pings a Minecraft Java Edition server and gets some info about it.</code><br>
 <code>/javamotd [address] - Gets the current MOTD of a Minecraft Java Edition server.</code><br>
 <code>/beping [address] - Pings a Minecraft Bedrock Edition server and gets some info about it.</code><br>
 
+BOT:<br>
+<code>/mbhelp - Information's about the Bot.</code><br>
+<code>/mbping - Calculate ping of the bot.</code><br>
+
 <a href="https://github.com/sponsors/LewBr"> Click here to donate</a>
 
 ### Features to be implemented:
-- [x] Get a player stats on the Hypixel server
-- [ ] Get a SkyWars stats of a specific player
+- [x] Get informations of a player on the Hypixel server | Implemented: 21/09/2022 Command: <code>/hypixel [nickname]</code>
+- [ ] Get a SkyWars stats of a specific player in Hypixel
 
 ## About
 - Made by LewBr (Leonardo Santos)
