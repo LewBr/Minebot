@@ -5,7 +5,7 @@ If you want to give a suggestion or report a bug just create a Issue <a href="ht
 
 <a href="https://discord.com/api/oauth2/authorize?client_id=1008792285317701813&permissions=2184506432&scope=bot"> Click here to add the bot</a>
 
-Invite Link: https://discord.com/api/oauth2/authorize?client_id=1008792285317701813&permissions=2184506432&scope=bot
+Invitation Link: https://discord.com/api/oauth2/authorize?client_id=1008792285317701813&permissions=2184506432&scope=bot
 
 
 Commands of the bot:<br>
