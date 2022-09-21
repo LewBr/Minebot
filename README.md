@@ -22,7 +22,11 @@ Commands of the bot:<br>
 
 <a href="https://github.com/sponsors/LewBr"> Click here to donate</a>
 
-Features to be added:
-- Get a player stats on the Hypixel server.
+### Features to be implemented:
+- [x] Get a player stats on the Hypixel server
+- [ ] Get a SkyWars stats of a specific player
 
-
+## About
+- Made by LewBr (Leonardo Santos)
+- Github - http://github.com/LewBr
+- Twitter - http://twitter.com/Lew_Br
