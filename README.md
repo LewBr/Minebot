@@ -11,7 +11,8 @@ Commands of the bot:<br>
 SKIN:<br>
 <code>/mchead [nickname]  - Shows the head of a Minecraft skin.</code><br>
 <code>/mcface [nickname] - Shows the face of a Minecraft skin.</code><br>
-<code>/mcfacehelmet [nickname] (size) - Shows the face of a Minecraft skin with helmet.</code><br>
+<code>/mcfacehm [nickname] - Shows the face of a Minecraft skin with helmet.</code><br>
+<code>/mcfront [nickname] - Shows the bust/front of a Minecraft skin.</code><br>
 <code>/mcskin [nickname] - Shows the Minecraft skin of a player.</code><br>
 <code>/mcskinsteal [nickname] - Shows a raw Minecraft skin.</code><br>
 
