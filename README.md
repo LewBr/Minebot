@@ -40,6 +40,7 @@ BOT:<br>
 ### Features to be implemented:
 - [x] Get informations of a player on the Hypixel server | Implemented: 21/09/2022 Command: <code>/hypixel [nickname]</code>
 - [ ] Get a SkyWars stats of a specific player in Hypixel
+- [ ] Get a SkyBlock stats of a specific player in Hypixel
 
 ## About
 - Made by LewBr (Leonardo Santos)
