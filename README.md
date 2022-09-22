@@ -10,11 +10,16 @@ Commands of the bot:<br>
 
 SKIN:<br>
 <code>/mchead [nickname]  - Shows the head of a Minecraft skin.</code><br>
+<code>/mcheadsh [nickname]  - Shows the head of a Minecraft skin with shadow.</code><br>
 <code>/mcface [nickname] - Shows the face of a Minecraft skin.</code><br>
-<code>/mcfacehm [nickname] - Shows the face of a Minecraft skin with helmet.</code><br>
-<code>/mcfront [nickname] - Shows the bust/front of a Minecraft skin.</code><br>
+<code>/mcface2 [nickname] - Shows the face of a Minecraft skin in other perspective.</code><br>
+<code>/mcfront [nickname] - Shows the front of a Minecraft skin.</code><br>
+<code>/mcfrontfu [nickname] - Shows the full front of a Minecraft skin.</code><br>
+<code>/mcbust [nickname] - Shows the bust of a Minecraft skin.</code><br>
 <code>/mcskin [nickname] - Shows the Minecraft skin of a player.</code><br>
+<code>/mcskin2 [nickname] - Shows the Minecraft skin of a player in other perspective.</code><br>
 <code>/mcskinsteal [nickname] - Shows a raw Minecraft skin.</code><br>
+<code>/mccape [nickname] - Shows the cape of a Minecraft skin.</code><br>
 
 PLAYER INFO:<br>
 <code>/mcuuid [nickname] - Gets the UUID associated with a Minecraft username.</code><br>
