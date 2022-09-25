@@ -38,7 +38,7 @@ SERVER:<br>
 <code>/javamotd [address] - Gets the current MOTD of a Minecraft Java Edition server.</code><br>
 <code>/beping [address] - Pings a Minecraft Bedrock Edition server and gets some info about it.</code><br>
 
-BOT 🤖:<br>
+BOT:<br>
 <code>/mbhelp - Information's about the Bot.</code><br>
 <code>/mbping - Calculate ping of the bot.</code><br>
 
