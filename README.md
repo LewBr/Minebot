@@ -15,7 +15,7 @@ Commands of the bot:<br>
 
 Meaning of symbols: [obrigatory field] (non-obrigatory field)
 
-SKIN ⛹:<br>
+SKIN:<br>
 <code>/mchead [nickname] (overlay) - Shows the head of a Minecraft skin.</code><br>
 <code>/mcheadsh [nickname] - Shows the head of a Minecraft skin with shadow.</code><br>
 <code>/mcface [nickname] (overlay) - Shows the face of a Minecraft skin.</code><br>
@@ -28,12 +28,12 @@ SKIN ⛹:<br>
 <code>/mcskinsteal [nickname] - Shows a raw Minecraft skin.</code><br>
 <code>/mccape [nickname] - Shows the cape of a Minecraft skin.</code><br>
 
-PLAYER INFO 📄:<br>
+PLAYER INFO:<br>
 <code>/mcuuid [nickname] - Gets the UUID associated with a Minecraft username.</code><br>
 <code>/mcofflineuuid [nickname] - Gets the UUID that a player would have on an offline-mode server.</code><br>
 <code>/hypixel [nickname] - Gets a player stats from the server Hypixel. (mc.hypixel.net)</code><br>
 
-SERVER 🌐:<br>
+SERVER:<br>
 <code>/javaping [address] - Pings a Minecraft Java Edition server and gets some info about it.</code><br>
 <code>/javamotd [address] - Gets the current MOTD of a Minecraft Java Edition server.</code><br>
 <code>/beping [address] - Pings a Minecraft Bedrock Edition server and gets some info about it.</code><br>
