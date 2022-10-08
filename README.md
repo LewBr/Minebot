@@ -45,8 +45,8 @@ BOT:<br>
 <a href="https://github.com/sponsors/LewBr"> Click here to donate</a>
 
 ### Features to be implemented:
-- [x] Get informations of a player on the Hypixel server | Implemented: 21/09/2022 Command: <code>/hypixel [nickname]</code>
-- [x] Get the SkyWars stats of a specific player in Hypixel | Implemented: 03/10/2022 Command: <code>/hypixel [nickname] sw</code>
+- [x] Get informations of a player on the Hypixel server | Implemented: 21/09/2022 <br>Command: <code>/hypixel [nickname]</code>
+- [x] Get the SkyWars stats of a specific player in Hypixel | Implemented: 03/10/2022 <br>Command: <code>/hypixel [nickname] sw</code>
 - [ ] Get the BedWars stats of a specific player in Hypixel
 - [ ] Get the SkyBlock stats of a specific player in Hypixel
 
