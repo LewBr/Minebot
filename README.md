@@ -31,7 +31,7 @@ SKIN:<br>
 PLAYER INFO:<br>
 <code>/mcuuid [nickname] - Gets the UUID associated with a Minecraft username.</code><br>
 <code>/mcofflineuuid [nickname] - Gets the UUID that a player would have on an offline-mode server.</code><br>
-<code>/hypixel [nickname] - Gets a player stats from the server Hypixel. (mc.hypixel.net)</code><br>
+<code>/hypixel [nickname] (gamemode) - Gets a player stats from the server Hypixel. (mc.hypixel.net)</code><br>
 
 SERVER:<br>
 <code>/javaping [address] - Pings a Minecraft Java Edition server and gets some info about it.</code><br>
@@ -46,10 +46,10 @@ BOT:<br>
 
 ### Features to be implemented:
 - [x] Get informations of a player on the Hypixel server | Implemented: 21/09/2022 Command: <code>/hypixel [nickname]</code>
-- [ ] Get the SkyWars and BedWars stats of a specific player in Hypixel
+- [x] Get the SkyWars and BedWars stats of a specific player in Hypixel | Implemented: 03/10/2022 Command: <code>/hypixel [nickname] sw</code>
 - [ ] Get the SkyBlock stats of a specific player in Hypixel
 
 ## About
 - Made by LewBr (Leonardo Santos)
-- Github - http://github.com/LewBr
-- Twitter - http://twitter.com/Lew_Br
+- GitHub - http://github.com/lewbr
+- Twitter - http://twitter.com/lew_br
