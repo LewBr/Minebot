@@ -15,6 +15,10 @@ Commands of the bot:<br>
 
 Meaning of symbols: [obrigatory field] (non-obrigatory field)
 
+Available arguments:<br>
+overlay: true<br>
+gamemode: sw
+
 SKIN:<br>
 <code>/mchead [nickname] (overlay) - Shows the head of a Minecraft skin.</code><br>
 <code>/mcheadsh [nickname] - Shows the head of a Minecraft skin with shadow.</code><br>
