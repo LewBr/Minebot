@@ -33,6 +33,7 @@ SKIN:<br>
 <code>/mccape [nickname] - Shows the cape of a Minecraft skin.</code><br>
 
 PLAYER INFO:<br>
+<code>/mcinfo [nickname] - Gets information's of a Minecraft account.</code><br>
 <code>/mcuuid [nickname] - Gets the UUID associated with a Minecraft username.</code><br>
 <code>/mcofflineuuid [nickname] - Gets the UUID that a player would have on an offline-mode server.</code><br>
 <code>/hypixel [nickname] (gamemode) - Gets a player stats from the server Hypixel. (mc.hypixel.net)</code><br>
@@ -50,7 +51,8 @@ BOT:<br>
 
 ### Features to be implemented:
 - [x] Get informations of a player on the Hypixel server | Implemented: 21/09/2022 <br>Command: <code>/hypixel [nickname]</code>
-- [x] Get the SkyWars stats of a specific player in Hypixel | Implemented: 03/10/2022 <br>Command: <code>/hypixel [nickname] sw</code>
+- [x] Get the SkyWars stats of a specific player in Hypixel  | Implemented: 03/10/2022 <br>Command: <code>/hypixel [nickname] sw</code>
+- [x] Get the general information of a Minecraft account | Implemented: 22/10/2022 <br>Command: <code>/mcinfo [nickname]</code>
 - [ ] Get the BedWars stats of a specific player in Hypixel
 - [ ] Get the SkyBlock stats of a specific player in Hypixel
 
