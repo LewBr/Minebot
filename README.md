@@ -56,6 +56,12 @@ BOT:<br>
 - [ ] Get the BedWars stats of a specific player in Hypixel
 - [ ] Get the SkyBlock stats of a specific player in Hypixel
 
+## Examples in images of one of the most used commands:
+<img src="https://i.imgur.com/QCQQTJa.png" width="500px" alt="/mcinfo" title="/mcinfo [nickname]">
+<img src="https://i.imgur.com/trwYx9Q.png" width="500px" alt="/hypixel" title="/hypixel [nickname]">
+<img src="https://i.imgur.com/kwobibH.png" width="500px" alt="/hypixel [nickname] sw" title="/hypixel [nickname] sw">
+<img src="https://i.imgur.com/tRN6ByX.png" width="500px" alt="/javaping [address]" title="/javaping [address]">
+
 ## About
 - Made by LewBr (Leonardo Santos)
 - GitHub - http://github.com/lewbr
