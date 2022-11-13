@@ -53,6 +53,7 @@ BOT:<br>
 - [x] Get informations of a player on the Hypixel server | Implemented: 21/09/2022 <br>Command: <code>/hypixel [nickname]</code>
 - [x] Get the SkyWars stats of a specific player in Hypixel  | Implemented: 03/10/2022 <br>Command: <code>/hypixel [nickname] sw</code>
 - [x] Get the general information of a Minecraft account | Implemented: 22/10/2022 <br>Command: <code>/mcinfo [nickname]</code>
+- [ ] Track when a player leaves/join a server. (Need of plugin creation)
 - [ ] Get the BedWars stats of a specific player in Hypixel
 - [ ] Get the SkyBlock stats of a specific player in Hypixel
 
