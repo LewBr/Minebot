@@ -63,6 +63,15 @@ BOT:<br>
 <img src="https://i.imgur.com/kwobibH.png" width="500px" alt="/hypixel [nickname] sw" title="/hypixel [nickname] sw">
 <img src="https://i.imgur.com/tRN6ByX.png" width="500px" alt="/javaping [address]" title="/javaping [address]">
 
+### Progress of the bot:
+- [16/08/2022] Bot has been born.
+- [21/09/2022] Bot reached 50 server's.
+- [26/09/2022] Bot reached 250 server's. (Verification process)
+- [03/10/2022] Bot has been verified. ✔️
+- [22/10/2022] Bot reached 500+ server's.
+- [04/12/2022] Bot reached 700+ server's.
+
+
 ## About
 - Made by LewBr (Leonardo Santos)
 - GitHub - http://github.com/lewbr
